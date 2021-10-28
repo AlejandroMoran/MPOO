@@ -1,3 +1,4 @@
+package com.mycompany.mpoop1;
 /**
 *
 *@author Moran Duque, Jose Alejandro
